@@ -63,6 +63,7 @@ public:
 	int calculateFare(bool);
 
 private:
+	//properties
 	int id;
 	int origin;
 	int dest;
